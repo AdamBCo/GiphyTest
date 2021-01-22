@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-GiphyTest (iOS)/Pods-GiphyTest (iOS)-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PINCache/PINCache.framework
+${BUILT_PRODUCTS_DIR}/PINOperation/PINOperation.framework
+${BUILT_PRODUCTS_DIR}/libwebp/libwebp.framework
